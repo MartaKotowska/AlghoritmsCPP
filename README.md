@@ -1,1 +1,1 @@
-test
+examples of alghoritms in cpp
